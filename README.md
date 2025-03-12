@@ -1,4 +1,4 @@
-# Hi there, I'm [Developer Ashik](https://github.com/developerashik-tec) 👋 
+# Hi there, I'm [Nilanto Ashik](https://github.com/nilanto-ashik) 👋 
 
 Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a focus on **AI, ML**, and **Bioinformatics**.
 
