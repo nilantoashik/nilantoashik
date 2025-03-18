@@ -9,12 +9,11 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
 - 💬 Let's talk **AI**, **Machine Learning**, **Bioinformatics**, or **Deep Learning**!
 
 ### 📈 GitHub Stats:
-###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nilanto-ashik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
 
 <img align="right" height="144" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b76110itr8kmtp57pnf2h7wdga5jz1ghxpo0zz3o10peq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
@@ -41,10 +40,10 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
   <a href="https://www.kaggle.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle logo" /></a>
   <a href="https://leetcode.com" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" /></a>
-  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" /></a>
+  <a href="https://www.youtube.com/@developerashikofficial" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" /></a>
   <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
   <a href="https://www.twitch.tv" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
+  <a href="developerashik.tec@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
 </div>
 
 ### 📚 Education:
