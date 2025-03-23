@@ -63,7 +63,7 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
 - Not Yet
 
 ### 💼 Work Experience:
-- **Execytive: IT KARIGOR**
+- **Executive: IT KARIGOR**
   - Work **Customer Service**, **Communication**,  **Management**, **Updating on Excel Sheet**, **Data Entry**
 - **Freelancing: Freelancer, Fiverr, Upwork**  
   - Built user-friendly websites using **WordPress**, **Shopify**, **WIX**, **EditorX**, and **Squarespace**.
