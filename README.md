@@ -1,6 +1,6 @@
 # Hi there, I'm [Nilanto Ashik](https://github.com/nilanto-ashik) 👋
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub!;+I'm+a+Computer+Science+%26+Engineering+graduate+with+a+focus+on+AI%2C+ML%2C+and+Bioinformatics." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub!;+I'm+a+Computer+Science+%26+;Engineering+graduate+;with+a+focus+on+AI%2C+ML;+and+Bioinformatics." alt="Typing SVG" />
 
 </p>
 
