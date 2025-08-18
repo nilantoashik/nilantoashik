@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
 
 ### 🔗 Connect with Me:
 <div align="left">
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
+  <a href="https://https://hk.linkedin.com/in/nilantoashik" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
   <a href="https://www.kaggle.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle logo" /></a>
   <a href="https://leetcode.com" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" /></a>
   <a href="https://www.youtube.com/@developerashikofficial" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" /></a>
