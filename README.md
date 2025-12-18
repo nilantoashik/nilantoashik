@@ -1,4 +1,4 @@
-# Hi there, I'm [Nilanto Ashik](https://github.com/nilanto-ashik) 👋
+# Hi there, I'm [Nilanto Ashik](https://github.com/nilantoashik) 👋
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub!;+I'm+a+Computer+Science+%26+;Engineering+graduate+;with+a+focus+on+AI%2C+ML;+and+Bioinformatics." alt="Typing SVG" />
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
 ### 📈 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilanto-ashik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nilantoashik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
