@@ -13,15 +13,18 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
 - 🌱 Working on my thesis: **N/A** using **N/A**.
 - 💬 Let's talk **AI**, **Machine Learning**, **Bioinformatics**, or **Deep Learning**!
 
-### 📈 GitHub Stats:
+### 📈 GitHub Stats & Activity:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilantoashik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nafizalzawad&show_icons=true&theme=tokyonight&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nilantoashik&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilantoashik&layout=compact&theme=tokyonight" /> </p>
 
-<img align="right" height="144" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b76110itr8kmtp57pnf2h7wdga5jz1ghxpo0zz3o10peq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+---
+## 🔥 Recent GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilantoashik&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
+</p>
+
+---
 
 ### 🛠️ Technologies:
 <div align="left">
@@ -53,6 +56,12 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
   <a href="developerashik.tec@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
 </div>
 
+### 🧑‍💼 **Portfolio Website**  
+🌐 [Nilanto Ashik](https://nilantoashik.dev)  
+Built with **HTML, CSS, JavaScript, and responsive design** to showcase projects and resume.
+
+---
+
 ### 📚 Education:
 - **University of Information Technology & Sciences**, Bangladesh  
   **B.Sc. in Computer Science & Engineering**, 2022-Current Student  
@@ -66,8 +75,18 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
   **Secondary School Certificate**, 2019  
   GPA: 5.00/5.00
 
-### 🧠 Research:
-- Not Yet
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nilantoashik/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://nilantoashik.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ### 💼 Work Experience:
 - **Executive: IT KARIGOR**
