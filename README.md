@@ -12,15 +12,6 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
 - 🌱 Currently working on my thesis (details coming soon)
 - 💬 Let's talk AI, Machine Learning, Bioinformatics, or Deep Learning!
 
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nilantoashik&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilantoashik&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
 ## 🔥 Recent GitHub Activity
 
 <p align="center">
