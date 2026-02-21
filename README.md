@@ -44,6 +44,9 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
   <a href="https://www.linkedin.com/in/nilantoashik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.fiverr.com/nilanto_ashik" target="_blank">
+    <img src="https://img.shields.io/badge/fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
   <a href="https://nilantoashik.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -52,6 +55,9 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
   </a>
   <a href="https://www.behance.net/nilantoashik">
     <img src="https://img.shields.io/badge/behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://dribbble.com/nilanto-ashik">
+    <img src="https://img.shields.io/badge/dribble-ea4c89?style=for-the-badge&logo=dribble&logoColor=white" alt="Dribble" />
   </a>
 </p>
 
