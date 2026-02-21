@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.behance.net/nilantoashik">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" />
+    <img src="https://img.shields.io/badge/behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
 </p>
 
